@@ -1,0 +1,16 @@
+.navbar {
+  min-height: 5vh;
+  background-color: #f55a5a;
+  color: #fff;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+  h1 {
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+  }
+}
